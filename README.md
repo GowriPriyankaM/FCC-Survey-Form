@@ -10,6 +10,8 @@ The form includes input fields for name, email and age, a dropdown, radio button
 
 After completing the practice projects in the freecodecamp curriculum, I felt comfortable writing the HTML and CSS for the project, so choosing the layout and color scheme was the biggest challenge.
 
+## Preview :
+
 *Here's a screenshot of how the form looks like:*
 
 ![screenshot of survey form](https://github.com/GowriPriyankaM/FCC-Survey-Form/blob/main/Survey%20Form%20Preview.png)
