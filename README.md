@@ -1,5 +1,7 @@
 # FCC-Survey-Form
 
+Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/WNYopPw)** of this project.
+
 ## Description :
 
 FCC Survey Form is a simple survey form built with **HTML** and **CSS**. I have created this project as a part of my **Responsive Web Design** certification in 
