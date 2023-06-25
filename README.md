@@ -1,4 +1,4 @@
-# FCC-Survey-Form
+# FCC Survey Form
 
 Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/WNYopPw)** of this project.
 
@@ -19,3 +19,8 @@ After completing the practice projects in the freecodecamp curriculum, I felt co
 ![screenshot of survey form](https://github.com/GowriPriyankaM/FCC-Survey-Form/blob/main/Survey%20Form%20Preview.png)
 
 Considering that this is my first form, I am really happy with how it turned out and I'm looking forward to applying these techniques on my future projects.
+
+## License :
+
+   
+This project is **[MIT Licensed](./LICENSE).**
