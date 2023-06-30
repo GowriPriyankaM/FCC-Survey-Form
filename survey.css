@@ -13,7 +13,11 @@ body {
     margin: 0.8em auto;
     text-align: center; 
   }
-  
+
+  p {
+    font-style: italic;
+  }
+
   fieldset {
     width: 50%;
     padding: 2em;
