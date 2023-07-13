@@ -59,3 +59,9 @@ body {
     color: #ffffff;
     background-color: #97728D;
   }
+
+  @media screen and (max-width: 700px) {
+      fieldset {
+        width: 80%; 
+      }
+  }
