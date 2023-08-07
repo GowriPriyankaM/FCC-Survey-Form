@@ -4,7 +4,7 @@ Click here to see the **[Live Preview](https://codepen.io/GowriPriyankaM/full/WN
 
 ## Description :
 
-FCC Survey Form is a simple survey form built with **HTML** and **CSS**. I have created this project as a part of my **Responsive Web Design** certification in 
+FCC Survey Form is a simple survey form that takes input from the users and is built using **HTML** and **CSS**. I have created this project as a part of my **Responsive Web Design** certification in 
 [FreeCodeCamp](https://www.freecodecamp.org/). 
 The form includes input fields for name, email and age, a dropdown, radio buttons, checkboxes, and a textbox for comments, with a submit button at the end.
 
